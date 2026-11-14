@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Account switcher and token manager (Build: aspro 11).",
+  "description": "Switch account with integrated Add option and Copy Token (Build: aspro 13).",
   "authors": [
     {
-      "name": "aspro 11",
+      "name": "aspro 13",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "39ed4f6e7a6ce9f9e46ccb7d5983e21f648d2e2ef9f46ebfc3cb1092785ef794"
+  "hash": "7945eca7c6bfc9a86ad8b327e89d0d5b279b076ee746100e0e3034e1b7bc81fc"
 }
