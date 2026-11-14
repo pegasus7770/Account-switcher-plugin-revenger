@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Clean and organized account manager with avatars and tokens (Build: aspro 19).",
+  "description": "Account Switcher and Token Manager Settings Fix (Build: aspro 20).",
   "authors": [
     {
-      "name": "aspro 19",
+      "name": "aspro 20",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "05c0ccd57486e3f7f2cfd1905bec51b6e153ac2fa07e4e02409554dab30521eb"
+  "hash": "9b7a225280fd481690d1041206309f512933094146c1b45318f64f4691b39115"
 }
