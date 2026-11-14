@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Account Switcher with direct Token Login & Add Account (Build: aspro 22).",
+  "description": "Completely isolated safe account switcher (Build: aspro 25).",
   "authors": [
     {
-      "name": "aspro 22",
+      "name": "aspro 25",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "e089a4914b4c473e296cef6e8a47ddcb0bbd0daac4cef2dcee6bf69d598236da"
+  "hash": "8ec3639b05529afac8251ef9ff4e11fd017e3bc12c57fea5f3b76aa1828bb8bd"
 }
