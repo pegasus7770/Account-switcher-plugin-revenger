@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Switch accounts, add new accounts, and copy Discord token (Build: aspro 7).",
+  "description": "Account switcher and token manager (Build: aspro 8).",
   "authors": [
     {
-      "name": "aspro 7",
+      "name": "aspro 8",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "4a11cf90d958e108943eb7b344c54379cba4a2bf5520b20150adfc8c9b1a2248"
+  "hash": "ef26b0235578945d41a11196e4841e63b2edcbf5d781adbb56d860fb340a0eb2"
 }
