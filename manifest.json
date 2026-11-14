@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Account Switcher and Token Manager Settings Fix (Build: aspro 20).",
+  "description": "Account Switcher and Token Manager with Working Settings Key (Build: aspro 21).",
   "authors": [
     {
-      "name": "aspro 20",
+      "name": "aspro 21",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "9b7a225280fd481690d1041206309f512933094146c1b45318f64f4691b39115"
+  "hash": "75f7b64870464e12125366095d4b9830d3fdb9f31a49d20467fca36f3fec0991"
 }
