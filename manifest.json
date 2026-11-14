@@ -1,0 +1,15 @@
+{
+  "name": "AccountSwitcher",
+  "description": "Switch between multiple accounts instantly, extract account tokens, and manage saved sessions.",
+  "authors": [
+    {
+      "name": "aspro",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_fluent_people_swap_24_regular"
+  },
+  "hash": "5e4e29e4932c4f20af3a360e2eaf17e9a9c632f5603dd978334d133d8d1a421f"
+}
