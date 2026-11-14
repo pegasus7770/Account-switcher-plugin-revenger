@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Account Switcher and Token Manager (Build: aspro 16).",
+  "description": "Account Switcher and Token Manager Category Hub (Build: aspro 17).",
   "authors": [
     {
-      "name": "aspro 16",
+      "name": "aspro 17",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "d756ce9263b2a6bc98ed4abb8e4e07d96982d623191ca7d87326abd587f915c5"
+  "hash": "cd1a7fa1e173ed5d8ee463f3e2b31e66b036030793ee79bc2f35d0a594688e65"
 }
