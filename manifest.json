@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Account switcher and token manager (Build: aspro 8).",
+  "description": "Direct buttons injection below Log Out (Build: aspro 10).",
   "authors": [
     {
-      "name": "aspro 8",
+      "name": "aspro 10",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "ef26b0235578945d41a11196e4841e63b2edcbf5d781adbb56d860fb340a0eb2"
+  "hash": "b0097053b2a560cecf9e8fce89b050bac00f2b1a2097812837cd655124c469c6"
 }
