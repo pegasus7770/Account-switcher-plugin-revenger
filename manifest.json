@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Account Switcher and Token Manager with Working Settings Key (Build: aspro 21).",
+  "description": "Account Switcher with direct Token Login & Add Account (Build: aspro 22).",
   "authors": [
     {
-      "name": "aspro 21",
+      "name": "aspro 22",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "75f7b64870464e12125366095d4b9830d3fdb9f31a49d20467fca36f3fec0991"
+  "hash": "e089a4914b4c473e296cef6e8a47ddcb0bbd0daac4cef2dcee6bf69d598236da"
 }
