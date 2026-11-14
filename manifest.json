@@ -1,9 +1,9 @@
 {
   "name": "AccountSwitcher",
-  "description": "Account Switcher and Token Manager (Build: aspro 18).",
+  "description": "Clean and organized account manager with avatars and tokens (Build: aspro 19).",
   "authors": [
     {
-      "name": "aspro 18",
+      "name": "aspro 19",
       "id": "000000000000000000"
     }
   ],
@@ -11,5 +11,5 @@
   "vendetta": {
     "icon": "ic_fluent_people_swap_24_regular"
   },
-  "hash": "d6e1312b3c3b28ff07b0cce6f1c0d3e58189e1f492ce27221736b8c512df012c"
+  "hash": "05c0ccd57486e3f7f2cfd1905bec51b6e153ac2fa07e4e02409554dab30521eb"
 }
